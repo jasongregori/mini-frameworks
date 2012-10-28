@@ -34,7 +34,7 @@ Mini Frameworks should try to tackle a single idea. Typically, they should have 
 
 - Each mini framework may consist of at most 2 files (a header and an implementation).
 - A mini framework may not include other files with the exception of system frameworks and files. (*Mini Framework subclasses, though discouraged, may include their superclass*).
-- (Optional) A mini framework may contain a one line description/comment of this form: `// @mf: A one line description`. The `describe.rb` script scrapes these descriptions from mini frameworks.
+- (Optional) A mini framework may contain a one line description/comment of this form: `// @mf: A one line description`. The [`describe.rb`](https://github.com/jasongregori/mini-frameworks/blob/master/describe.rb) script scrapes these descriptions from mini frameworks.
 
 
 
