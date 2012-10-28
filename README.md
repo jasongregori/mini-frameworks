@@ -19,6 +19,14 @@ Why Mini?
 
 
 
+Mini Framework Collections
+--------------------------
+
+- [MFNetworking](https://github.com/jasongregori/MFNetworking): A collection of iOS networking utilities
+- [MFUtilities](https://github.com/jasongregori/MFUtilities): An assortment of iOS utilities
+
+
+
 Creating Your Own
 -----------------
 
