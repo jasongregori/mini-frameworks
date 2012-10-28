@@ -44,7 +44,7 @@ Thoughts
 I hope you find Mini Frameworks useful for certain situations, I know I do. Please [contact me](http://twitter.com/jasongregori) and let me know what you like and don't like about Mini Frameworks. I am always open to suggestions and I still have a lot to learn.
 
 Thanks,  
-Jason
+Jason  
 [@jasongregori](http://twitter.com/jasongregori)
 
 
