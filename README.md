@@ -41,7 +41,7 @@ Mini Frameworks should try to tackle a single idea. Typically, they should have 
 Thoughts
 --------
 
-I hope you find Mini Frameworks useful for certain situations, I know I do. Please [contact me](http://twitter.com/jasongregori) and let me know what you like and don't like about Mini Frameworks. I am always open to suggestions and I still have a lot to learn.
+I hope you find Mini Frameworks useful for certain situations, I know I do. Please [contact me](https://github.com/jasongregori/mini-frameworks/issues/new) and let me know what you like and don't like about Mini Frameworks. I am always open to suggestions and I still have a lot to learn.
 
 Thanks,  
 Jason  
